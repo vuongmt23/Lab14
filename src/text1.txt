@@ -1,0 +1,1277 @@
+The Project Gutenberg eBook of De l'assassinat considéré comme un des Beaux-Arts
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: De l'assassinat considéré comme un des Beaux-Arts
+
+Author: Thomas De Quincey
+
+Translator: André Fontainas
+
+Release date: November 24, 2024 [eBook #74790]
+
+Language: French
+
+Original publication: Paris: Mercure de France
+
+Credits: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by the Bibliothèque nationale de France (BnF/Gallica))
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK DE L'ASSASSINAT CONSIDÉRÉ COMME UN DES BEAUX-ARTS ***
+
+
+
+
+
+
+  THOMAS DE QUINCEY
+
+  De
+  l’Assassinat
+  considéré comme
+  un des Beaux-Arts
+
+  TRADUIT DE L’ANGLAIS PAR
+  ANDRÉ FONTAINAS
+
+  TROISIÈME ÉDITION
+
+
+  PARIS
+  SOCIÉTÉ DE MERCVRE DE FRANCE
+  XV, RVE DE L’ÉCHAVDÉ-SAINT-GERMAIN, XV
+  MCMI
+
+
+
+
+JUSTIFICATION DU TIRAGE:
+
+
+Droits de traduction et de reproduction réservés pour tous pays, y
+compris la Suède, la Norvège et le Danemark.
+
+
+
+
+PREMIER MÉMOIRE[1]
+
+(1827)
+
+
+
+
+I
+
+AVERTISSEMENT
+
+PAR
+
+UN HOMME MORBIDEMENT VERTUEUX[2]
+
+
+Nous qui lisons des livres, nous avons sans doute, la plupart, entendu
+parler d’une Société pour la protection du vice, du club «le Feu de
+l’Enfer» fondé au siècle dernier par sir Francis Dashwood, etc.[3] C’est
+à Brighton, je crois, qu’il s’était fondé une société pour la
+suppression de la vertu. La société a elle-même été supprimée, mais j’ai
+le chagrin de dire qu’il existe, à Londres, une autre société d’un
+caractère plus atroce encore. Quant à sa tendance, on pourrait la
+dénommer: Société pour l’encouragement au meurtre, mais, suivant son
+propre délicat euphémisme, elle s’intitule Société des Connaisseurs en
+meurtre. On y fait profession d’être curieux en matière d’homicide, ce
+sont amateurs et dilettanti dans les modes divers du carnage, ou, en un
+mot, des amateurs de meurtre. Dès que quelque nouvelle atrocité de ce
+genre nous est apportée par les annales de la police de l’Europe, elle
+se réunit pour en faire la critique, comme on ferait d’un tableau, d’une
+statue ou de toute autre œuvre d’art.
+
+Mais il n’est pas nécessaire que je me donne la peine d’essayer de
+décrire dans quel esprit elle agit, le lecteur le comprendra beaucoup
+mieux par une des conférences mensuelles faites, devant la Société, l’an
+dernier.
+
+Cette conférence m’est tombée entre les mains par hasard, en dépit de la
+vigilance exercée pour tenir les affaires de la Société à l’abri de la
+vue du public. Ma publication l’alarmera, et tel est bien mon désir. En
+effet, j’aimerais plutôt l’abattre doucement par un appel à l’opinion
+publique que par un scandale de noms comme celui qui suivrait un appel à
+Bow-Street: et, pourtant ce dernier appel, si l’autre manquait son but,
+il me faudrait y recourir.
+
+Mon opiniâtre vertu ne peut s’accommoder de pareilles choses en un pays
+chrétien. Et même, en plein pays païen, l’indulgence au meurtre, je veux
+dire dans les spectacles horribles de l’amphithéâtre, un écrivain
+chrétien a senti que c’était le plus criant des reproches à faire aux
+mœurs publiques. Cet écrivain, c’est Lactance, et c’est par ses propres
+paroles, singulièrement applicables en l’occasion présente, que je veux
+conclure: «_Quid tam horribile_», dit-il, «_tam tetrum, quam hominis
+trucidatio? Ideo severissimis legibus vita nostra munitur; ideo bella
+execrabilia sunt. Invenit tamen consuetudo quatenus homicidium sine
+bello ac sine legibus faciat; et hoc sibi voluptas quod scelus
+vindicavit. Quod, si interesse homicidio sceleris conscientia est, et
+eidem facinori spectator obstrictus est cui et admissor, ergo et in his
+gladiatorum caedibus non minus cruore profunditur qui spectat quam ille
+qui facit: nec potest esse immunis a sanguine qui voluit effundi, aut
+videri non interfecisse qui interfectori et favit et praemium
+postulavit._»
+
+«Quoi de si horrible, dit Lactance, de si triste et de si révoltant que
+le meurtre d’un homme? C’est pourquoi notre vie est protégée par les
+lois les plus rigoureuses; c’est pourquoi les guerres sont des objets
+d’exécration. Et pourtant l’usage traditionnel, à Rome, a imaginé une
+sorte de meurtre autorisé, en dehors de la guerre et au mépris de la
+loi, et les besoins de ce goût (_voluptas_), sont devenus désormais les
+mêmes que ceux du crime dépravé.»
+
+Que la Société des Gentlemen amateurs considère ceci, et me laisse
+attirer son attention spéciale sur la dernière phrase, laquelle est
+d’une importance telle que je m’en vais tenter de la transporter dans
+l’anglais:
+
+«Or, si être simplement présent à un meurtre attache à un homme le
+caractère de complice; si être seulement spectateur nous enveloppe dans
+la faute commune en même temps que le coupable, il s’ensuit,
+nécessairement, que dans ces meurtres de l’amphithéâtre, la main qui
+inflige le coup fatal n’est pas plus profondément souillée de sang que
+celle de qui, passivement, regarde. Il ne peut être pur de tout sang,
+celui qui a encouragé à le répandre, et cet homme ne semble pas autre
+chose qu’un participant au meurtre, s’il donne au meurtrier son
+applaudissement ou réclame, en sa faveur, des prix.»
+
+Le _praemia postulavit_ je n’en ai pas entendu jusqu’ici accuser les
+Gentlemen Amateurs de Londres, bien que, sans aucun doute, leurs
+agissements y tendent. Quant à l’_interfectori favit_, il est implicite
+dans le titre même de leur association et exprimé dans chacune des
+lignes de la conférence qui suit.
+
+X. Y. Z[4].
+
+
+
+
+II
+
+CONFÉRENCE
+
+
+Messieurs,
+
+J’ai eu l’honneur d’être désigné par votre Comité pour la tâche
+difficile de lire une conférence-Williams[5] sur l’assassinat considéré
+comme un des Beaux-Arts. Cette tâche aurait pu être aisée, il y a trois
+ou quatre siècles, alors que l’art était peu compris et que peu de
+grands modèles s’étaient montrés. Mais dans cet âge-ci, après que des
+chefs-d’œuvre parfaits ont été exécutés par des professionnels, il faut
+évidemment que, dans le style de la critique qui s’y attache, le public
+s’attende quelque peu à un progrès en rapport. La pratique et la théorie
+doivent marcher _pari passu_.
+
+On commence à voir qu’il entre dans la composition d’un bel assassinat
+quelque chose de plus que deux imbéciles, l’un qui tue et l’autre qui
+soit tué, un couteau, une bourse, et une allée obscure. Le dessin,
+messieurs, le groupement, la lumière et l’ombre, la poésie, le sentiment
+sont maintenant estimés indispensables à des essais de cette nature. M.
+Williams a élevé chez nous tous l’idéal du meurtre, et pour moi
+personnellement, il a par conséquent rendu plus profonde la difficulté
+de ma tâche. Comme Eschyle ou Milton pour la poésie, comme Michel-Ange
+pour la peinture, il a amené son art à un point de colossale sublimité,
+et, ainsi que l’observe M. Wordsworth, il a, en quelque sorte «créé le
+goût par lequel on devra jouir de lui».
+
+Esquisser l’histoire de l’art et en éclairer les principes par la
+critique, c’est ce qui reste le devoir du connaisseur, ou de juges d’une
+bien autre trempe que les juges d’assises de Sa Majesté.
+
+Avant de commencer, souffrez que je dise un mot ou deux à de certains
+faquins qui affectent de parler de notre société comme si elle était, à
+un degré quelconque, immorale dans son but. Immorale! Jupiter me
+protège, Messieurs! qu’est-ce donc qu’on veut dire par là? Je suis pour
+la moralité, et je le serai toujours, et pour la vertu, et pour tout
+cela. Et certes, j’affirme, et j’affirmerai toujours (quoi qu’il en
+puisse résulter) que l’assassinat constitue une ligne de conduite
+inconvenante, hautement inconvenante, et je n’hésite pas à déclarer que
+tout homme qui commet un assassinat doit avoir des façons de penser fort
+incorrectes et des principes véritablement inexacts. Bien loin de
+l’aider et de l’encourager en lui désignant la cachette de sa
+victime--ce qu’un grand moraliste d’Allemagne déclarait être le devoir
+de tout homme de bien[6]--je souscrirais un shilling et six pence pour
+qu’il fût arrêté..., ce qui fait dix-huit pence de plus que ce que les
+moralistes les plus éminents ont souscrit dans ce but jusqu’à ce jour.
+Mais quoi, enfin? Toute chose a, dans ce monde, deux anses.
+L’assassinat, par exemple, peut être saisi par son anse morale (c’est ce
+qu’on fait, en général, en chaire ou à Old Bailey) et c’est là, je le
+confesse, son côté faible; mais il peut aussi être traité
+_esthétiquement_, comme disent les Allemands, c’est-à-dire dans ses
+rapports avec le bon goût.
+
+Pour illustrer ceci, j’aurai recours à l’autorité de trois personnages
+éminents, à savoir: Samuel Taylor Coleridge, Aristote, et M. Howship, le
+chirurgien.
+
+Commençons par S. T. Coleridge.
+
+Une nuit, il y a de cela plusieurs années, je prenais avec lui le thé
+dans Berners Street (qui, soit dit en passant, pour une rue si courte, a
+été extraordinairement féconde en hommes de génie)[7]. D’autres
+personnes étaient là avec moi; et, au milieu de considérations
+charnelles sur le thé et les rôties, nous nous délections tous à boire
+une dissertation au sujet de Plotin, sur les lèvres attiques de S. T.
+Coleridge. Soudain un cri s’éleva: Au feu! au feu! Et tous, maître et
+disciples, Platon et οἱ περὶ τον Πλατωνα, nous nous ruâmes au dehors,
+avides du spectacle. Le feu était dans Oxford Street, chez un facteur de
+pianos. Et, comme cela promettait d’être un incendie de conséquence,
+j’eus du chagrin que des engagements m’obligeassent à quitter la société
+de M. Coleridge avant que les choses en fussent venues à leur période
+décisif.
+
+Quelques jours plus tard, je rencontrai mon hôte platonicien, je lui
+rappelai l’incendie en le priant de me faire connaître comment ce
+spectacle si prometteur s’était terminé. «Oh! monsieur, dit-il, il a
+fini si mal que, unanimement, nous nous sommes mis à le siffler.»
+
+Or quelqu’un supposera-t-il que M. Coleridge, trop gras pour être un
+personnage de vie active, mais sans nul doute digne chrétien, que ce bon
+S. T. Coleridge, dis-je, fût un incendiaire, ou seulement capable de
+souhaiter du mal au pauvre homme et à ses pianos (dont plusieurs, je
+pense, avec claviers additionnels)? Au contraire, je le tiens pour être
+de cette espèce d’hommes qui, j’en oserais gager ma vie, mettraient, en
+cas de nécessité, la main à la pompe, encore qu’il soit plutôt gras pour
+donner une preuve si ardente de sa vertu. Mais quel était, ici, le cas?
+La vertu n’était en rien intéressée. Une fois arrivées les pompes à feu,
+toute moralité s’en remettait au bureau des assurances. Et puisque tel
+était le cas, il avait bien le droit de satisfaire son goût. Il avait
+laissé son thé. N’allait-il rien avoir en retour?
+
+Je maintiens que l’homme le plus vertueux, ces prémisses établies, était
+autorisé à se faire une volupté de l’incendie et à le siffler, aussi
+bien que tout autre spectacle qui eût élevé une attente dans l’esprit
+public pour, ensuite, la décevoir.
+
+Puis, si je cite une autre grande autorité, que dit le Stagyrite?
+Celui-ci, (dans le 5e livre, je crois bien, de sa Métaphysique)[8]
+décrit ce qu’il appelle κλεπτὴν τέλειον, c’est-à-dire un _voleur
+parfait_, et, quant à M. Howship[9], dans un de ses ouvrages sur
+l’_Indigestion_, il ne se fait pas scrupule de parler avec admiration
+d’un certain ulcère qu’il a vu, et auquel il accorde le titre de «bel
+ulcère».
+
+Or, est-il quelqu’un pour prétendre que, considéré abstraitement, un
+voleur pût apparaître à Aristote sous le caractère de la perfection, ou
+que M. Howship pût être amoureux d’un ulcère? Aristote, on le sait bien,
+était lui-même un tel caractère moral que non content d’écrire sa Morale
+à Nicomaque en un volume in-8º, il écrivit encore un autre système
+appelé Magna Moralia ou Grandes Morales. Or il est impossible qu’un
+homme qui compose n’importe quelle morale, grande ou petite, puisse
+admirer un voleur _per se_; et, pour M. Howship, on sait qu’il fait la
+guerre à tous les ulcères et que, bien loin de se laisser séduire par
+leurs charmes, il s’efforce de les bannir du comté de Middlesex.
+
+Mais la vérité est que, répréhensibles _per se_, cependant, par rapport
+à d’autres de leur espèce, et un voleur et un ulcère peuvent avoir des
+degrés infinis de mérite. L’un et l’autre sont des imperfections, c’est
+vrai; mais, être imparfait étant leur essence, la grandeur même de leur
+imperfection devient leur perfection. _Spartam nactus est, hanc exorna._
+Un voleur comme Autolycus ou le naguère fameux George Barrington[10], et
+un hideux ulcère phagédénique, superbement déterminé, et progressant
+régulièrement par tous ses stades naturels, peuvent non moins justement
+être regardés comme l’idéal de leur espèce que la rose moussue comme la
+plus irréprochable parmi les fleurs, dans son développement depuis le
+bouton jusqu’à «la brillante fleur consommée», ou comme parmi les fleurs
+humaines, la plus magnifique jeune femme, revêtue de toute la pompe
+féminine.
+
+Et ainsi, non seulement un idéal d’encrier peut être imaginé, comme
+l’explique M. Coleridge dans sa célèbre correspondance avec M.
+Blackwood[11],--ce qui, pour le dire en passant, ne va pas si loin,
+puisqu’un encrier est une sorte de chose louable et un élément précieux
+de société,--mais jusqu’à l’imperfection même peut avoir son idéal ou
+son état parfait.
+
+Vraiment, Messieurs, je vous demande pardon de tant de philosophie en
+une fois; et maintenant laissez-moi l’appliquer.
+
+Lorsqu’un meurtre sera, dans le temps _paulo post futurum_, non pas
+accompli, non même (selon un purisme moderne) _à_ s’accomplir, mais
+seulement sur le point d’être accompli, et que la rumeur en viendra à
+nos oreilles, par tous les moyens traitons-le moralement. Mais
+supposez-le fini et passé, et que vous puissiez en dire, τετέλεσται, il
+est terminé ou (dans ce _molosse_ adamantin de _Médée_) εἴργασται, il
+est fait, c’est _un fait accompli_[12]; supposez le pauvre homme
+assassiné hors de peine, et le misérable qui a effectué la chose disparu
+en coup de feu, nul ne sait où; supposez, enfin, que nous ayons fait de
+notre mieux en nous harassant les jambes pour faire trébucher le
+compagnon dans sa fuite, mais le tout en vain--«abiit, evasit, excessit,
+erupit», etc... pourquoi dès lors, dis-je, de quelle utilité l’usage de
+plus de vertu? On a donné assez à la morale: voici venir le tour du goût
+et des Beaux-Arts. Ç’a été une triste chose, sans doute, très triste;
+mais nous n’y pouvons rien. C’est pourquoi tirons d’une chose mauvaise
+le meilleur parti; et, puisqu’il est impossible d’en rien marteler dans
+un but moral, traitons-la esthétiquement et voyons si on la peut estimer
+en ce sens. Voilà la logique de l’homme sensible; et que s’ensuit-il?
+Nous sécherons nos larmes, et nous aurons la satisfaction, peut-être, de
+découvrir qu’une affaire qui, considérée moralement, était choquante et
+ne tenait pas debout, si elle est soumise aux principes du goût,
+parviendra à être un ouvrage méritoire. Ainsi tout le monde sera
+content; le vieux proverbe est justifié que c’est un mauvais vent celui
+qui ne souffle le bien à personne; l’amateur, au lieu de paraître
+bilieux et hargneux par une attention trop serrée à la vertu, commence à
+ramasser ses miettes; et l’hilarité générale l’emporte. La vertu a fini
+son temps; et désormais, _Virtù_, chose si approximativement la même
+qu’elle ne diffère que par une seule lettre (qui à coup sûr ne vaut pas
+qu’on barguigne ou qu’on marchande)--_Virtù_, je le répète, et le goût
+du connaisseur ont licence de se pourvoir pour eux-mêmes. C’est par ces
+principes, Messieurs, que je me propose de guider vos études depuis Caïn
+jusqu’à M. Thurtell. Donc, à travers cette grande galerie du meurtre,
+marchons ensemble la main dans la main, en les délices de l’admiration,
+cependant que je m’efforcerai de fixer votre attention sur les objets
+d’une critique profitable.
+
+Le premier meurtre vous est familier, à tous. Comme inventeur du
+meurtre, et comme père de l’art, Caïn a dû être un homme de génie de
+premier ordre. Tous les Caïns furent des hommes de génie. Tubal Caïn a
+inventé les tubes, je crois, ou quelque chose de semblable. Mais quels
+qu’aient pu être l’originalité et le génie de l’artiste, tout art était
+alors dans l’enfance; et les œuvres sorties de tous ces ateliers doivent
+être critiquées avec le souvenir de cela. Même l’œuvre de Tubal serait
+probablement peu approuvée aujourd’hui à Sheffield. C’est pourquoi de
+Caïn (j’entends du premier Caïn) ce n’est pas le dénigrer que de dire
+que son action fut seulement tant bien que mal. Milton, cependant,
+peut-on supposer, en a pensé autrement. Par sa manière de rapporter la
+chose, il semble, en effet, que ce fut là, à ses yeux, l’assassinat
+favori, car il le retouche avec une inquiétude très apparente de son
+effet pittoresque:
+
+  De quoi le laboureur sentit une rage intérieure, et comme il causait
+  avec le berger, il le frappa au milieu de la poitrine d’une pierre qui
+  lui fit rendre la vie: il tomba, et mortellement pâle, exhala son âme
+  gémissante, _avec un torrent de sang répandue_.
+
+  _Par. Perdu, Livre XI_[13].
+
+Là-dessus, Richardson le peintre, qui avait l’œil à l’effet, remarque ce
+qui suit dans ses _Notes sur le Paradis Perdu_, p. 497: «On a cru,
+dit-il, que Caïn coupa (comme on dit communément) le sifflet au corps de
+son frère au moyen d’une grosse pierre: Milton parle ainsi, en y
+ajoutant, de plus, la grande plaie.» C’était, en cet endroit, une
+addition judicieuse; car la grossièreté de l’instrument, si non relevée
+et enrichie par une chaude et sanglante couleur, aurait eu par trop
+l’air simple de l’école sauvage, comme si l’acte avait été perpétré par
+un Polyphème, sans science, sans préméditation, sans rien qu’un os de
+mouton. Mais je suis surtout satisfait de ce perfectionnement en ce
+qu’il implique que Milton fut un amateur. Quant à Shakespeare, il n’en
+fut jamais de meilleur, témoin sa description de Duncan tué, de Banquo,
+etc... et enfin, par-dessus tout, témoin son incomparable miniature,
+dans _Henri VI_, de Gloucester assassiné[14].
+
+Les origines de l’art une fois établies, il est pitoyable de voir comme
+il sommeilla sans aucun progrès durant les âges. En effet, je vais être
+maintenant obligé de sauter par-dessus tous les meurtres sacrés ou
+profanes, comme entièrement indignes de votre attention, jusqu’à
+longtemps après le début de l’ère chrétienne. La Grèce, même dans le
+siècle de Périclès, n’a produit aucun meurtre, ou du moins on ne se
+souvient d’aucun qui soit du plus léger mérite; et Rome eut trop peu
+d’originalité de génie dans aucun des arts pour réussir où son modèle
+lui manquait[15]. De fait, la langue latine succombe à l’idée même du
+meurtre. «L’homme fut assassiné»--comment dit-on cela, en latin?
+_Interfectus est, interemptus est_, ce qui n’exprime qu’un homicide;
+aussi la latinité chrétienne du moyen âge fut-elle obligée d’introduire
+un mot nouveau, et tel que la faiblesse des conceptions classiques ne
+s’y haussa jamais. _Murdratus est_, dit le dialecte plus sublime des
+temps gothiques. En même temps, l’école juive d’assassinat gardait
+vivant tout ce qu’on connaissait de l’art jusqu’à ce jour, et peu à peu
+le transférait au monde occidental. En vérité, l’école juive a toujours
+été respectable dans sa période médiévale, comme le démontre le cas de
+Hugues de Lincoln, honoré de l’approbation de Chaucer, à l’occasion d’un
+autre ouvrage de la même école qui, dans les _Contes de Canterbury_, se
+trouve placé dans la bouche de la Dame Abbesse[16].
+
+Mais, pour revenir un moment à l’antiquité classique, je ne puis
+m’empêcher de penser que Catilina, Clodius et quelques autres de cette
+coterie eussent fait des artistes de premier ordre; et il est de tous
+point regrettable que l’_affectation_ de Cicéron ait privé son pays de
+la seule chance qu’il eût de se distinguer dans cette partie. Comme
+_sujet_ de meurtre, nulle personne n’eût convenu mieux que lui. O
+Gemini! comme il eût hurlé de terreur, s’il avait entendu Cethegus sous
+son lit. C’eût été vraiment divertissant de l’écouter; et convaincu je
+suis, messieurs, qu’il aurait préféré l’_utile_ de ramper dans un
+cabinet ou même dans un _cloaque_, à l’_honestum_ de faire face à
+l’audacieux artiste.
+
+J’arrive maintenant aux temps obscurs,--(par quoi nous qui parlons,
+entendons, avec précision, _par excellence_[17], le dixième siècle comme
+méridien, et les deux siècles immédiatement antérieur et postérieur, la
+pleine nuit s’étendant de l’an 888 à l’an 1111)--; ces temps devaient
+naturellement être favorables à l’art de l’assassinat, comme ils le
+furent à l’architecture d’église, au vitrail, etc.; et, en effet, vers
+l’extrême fin de cette période, surgit une grande figure de notre
+art,--je veux dire le Vieux de la Montagne. Éclatante lumière, à coup
+sûr, et je n’ai pas besoin de vous dire que le mot même d’_assassin_
+provient de lui[18]. C’était un amateur si ardent qu’une fois un
+assassin de ses favoris ayant attenté à sa vie, il fut si satisfait du
+talent montré que, en dépit de la trahison de l’artiste, il le créa duc
+sur-le-champ, avec transmissibilité en ligne féminine, et lui constitua
+une pension pour trois générations durant. L’assassinat politique est
+une branche de l’art qui demande une notice spéciale; et il serait
+possible que je fisse à ce propos une lecture entière. Néanmoins
+j’observerai combien il est étrange que cette branche de l’art ait
+fleuri par accès intermittents. Jamais l’assassinat politique ne pleut
+continûment, mais il tombe à verse. Notre temps même peut s’enorgueillir
+de quelques beaux spécimens, tels que, par exemple, l’affaire de
+Bellingham avec le premier ministre Perceval[19], le cas du duc de
+Berry, à l’Opéra de Paris, le cas du maréchal Bessières, à Avignon[20].
+Il y a environ deux siècles et demi, il y a eu une très brillante
+constellation de meurtres de cette espèce. J’ai à peine besoin de dire
+que je fais particulièrement allusion à ces sept splendides ouvrages:
+les assassinats de Guillaume Ier d’Orange; des trois Henri français, à
+savoir Henri, duc de Guise, qui songeait au trône de France; Henri III,
+dernier prince de la ligne de Valois, qui occupait alors le trône, et
+enfin Henri IV, son beau-frère, qui lui succéda sur ce trône en tant que
+premier prince de la ligne de Bourbon. Moins de dix-huit ans après,
+survint le cinquième de la liste, celui de notre duc de Buckingham (vous
+le trouverez excellemment décrit dans les lettres publiées par Sir Henry
+Ellis, du British Museum); le sixième, celui de Gustave Adolphe, le
+septième, celui de Wallenstein. O la glorieuse pléïade de meurtres! et
+l’admiration s’accroît à songer que de cette brillante constellation de
+manifestations artistiques, comprenant trois Majestés, trois Hautesses
+sérénissimes et une Excellence, toutes aient eu lieu dans un laps aussi
+court que de 1588 à 1635[21]. L’assassinat du roi de Suède, il est vrai,
+est mis en doute par plusieurs écrivains, Harte entre autres; mais ils
+ont tort. Il fut assassiné, et j’estime ce meurtre unique pour son
+excellence, car il fut assassiné en plein midi, et sur le champ de
+bataille, trait de conception qu’on ne rencontre en aucune autre œuvre
+dont je me souvienne. Concevoir l’idée d’un meurtre secret pour un motif
+secret comme enclos en une petite parenthèse dans la vaste scène de
+carnage de la bataille générale, cela ressemble au subtil artifice de
+Hamlet, d’une tragédie dans la tragédie. Vraiment tous ces assassinats
+peuvent être étudiés avec profit par le connaisseur avancé. Tous sont
+exemplaires, des modèles de meurtres, des patrons de meurtres, desquels
+on peut dire:
+
+    «_Nocturna versate manu, versate diurna_»
+
+et surtout _nocturna_.
+
+Dans ces assassinats de princes et d’hommes d’État, rien n’excite notre
+étonnement. D’importants changements dépendent souvent de leur mort; et,
+de l’éminence où ils se tiennent, ils sont particulièrement exposés
+comme points de mire à tout artiste possédé du désir ardent de produire
+un effet théâtral. Mais il y a une autre classe d’assassinats qui a
+prévalu depuis la première partie du dix-septième siècle, et qui
+réellement me surprend: je veux dire l’assassinat des philosophes. Car,
+Messieurs, c’est un fait que tout philosophe éminent, pendant les deux
+derniers siècles, ou a été assassiné, ou, tout au moins, s’est vu bien
+près de l’être,--si bien que si un homme se nomme philosophe et qu’on
+n’ait jamais attenté à sa vie, tenez pour certain qu’il n’y a rien en
+lui. Et contre la philosophie de Locke, en particulier, je crois que
+c’est une objection sans réplique (si nous en avions besoin) que, bien
+qu’il ait porté sur lui sa gorge dans ce monde pendant soixante-douze
+ans, jamais un homme n’ait condescendu à la lui couper.
+
+Comme ces cas des philosophes ne sont pas très connus, et sont, en
+général, bons et bien distribués dans leur ordonnance, je lirai ici une
+digression à ce sujet, surtout dans le but de faire montre de ma
+science.
+
+Le premier philosophe du dix-septième siècle (si nous exceptons Bacon et
+Galilée) fut Descartes; et si jamais on a pu dire d’un homme qu’il ne
+s’en fallut de rien qu’il fût assassiné, assassiné à un pouce
+près,--c’est de lui qu’on le peut dire. Voici le cas, tel qu’il est
+rapporté par Baillet, dans sa _Vie de M. Descartes_, t. I, pp.
+102-103:--En l’an 1621, Descartes pouvait avoir environ trente-six ans,
+il faisait selon son habitude une excursion (car il était aussi remuant
+qu’une hyène); et, arrivant à l’Elbe, soit à Gluckstadt ou à Hambourg,
+il s’embarqua pour la Frise orientale. Ce qu’il pouvait aller faire dans
+la Frise orientale, personne n’a jamais pu le découvrir; et peut-être se
+posa-t-il lui même la question, car, à peine eut-il atteint Embden,
+qu’il résolut aussitôt de faire voile pour la Frise _occidentale_; très
+impatient de tout retard, il loua une barque avec un petit nombre de
+matelots pour y naviguer. Il ne fut pas plus tôt sorti en mer, qu’il fit
+une agréable découverte: c’est qu’il s’était enfermé lui-même dans un
+antre d’assassins. De son équipage, dit M. Baillet, il découvrit bientôt
+que c’étaient «des scélérats»--non des amateurs, Messieurs, comme nous
+sommes, mais des professionnels dont l’ambition, à ce moment, se
+haussait à lui couper sa gorge individuelle. Mais l’histoire est trop
+amusante pour l’abréger; je la donne donc exactement d’après le français
+de son biographe: «M. Descartes n’avoit pas d’autre conversation que
+celle de son valet, avec lequel il parloit François. Les Mariniers qui
+le prenoient plutôt pour un Marchand forain que pour un Cavalier,
+jugèrent qu’il devoit avoir de l’argent. C’est ce qui leur fit prendre
+des résolutions qui n’étoient nullement favorables à sa bourse. Mais il
+y a cette différence entre les voleurs de mer et ceux des bois, que
+ceux-ci peuvent en assurance laisser la vie à ceux qu’ils volent, et se
+sauver sans être reconnus: au lieu que ceux-là ne peuvent mettre à bord
+une personne qu’ils auront volée, sans s’exposer au danger d’être
+dénoncez par la même personne. Aussi les Mariniers de M. Descartes
+prirent-ils des mesures plus sûres pour ne pas tomber dans un tel
+inconvénient. Ils voyoient que c’étoit un étranger venu de loin, qui
+n’avoit nulle connoissance dans le pays, et que personne ne s’aviseroit
+de réclamer quand il viendroit à manquer».--Songez, Messieurs, à ces
+chiens de Frise discutant un philosophe comme si c’était une pièce de
+rhum consigné chez quelque courtier de mer. «Ils le trouvoient d’une
+humeur fort tranquille, fort patiente; et jugeant à la douceur de sa
+mine, et à l’honnêteté qu’il avoit pour eux, que c’étoit un jeune homme
+qui n’avoit pas encore beaucoup d’expérience, ils conclurent qu’ils en
+auroient meilleur marché de sa vie. Ils ne firent point de difficulté de
+tenir leur conseil en sa présence, ne croyant pas qu’il sçût d’autre
+langue que celle dont il s’entretenoit avec son valet; et leurs
+délibérations alloient à l’assommer, à le jetter dans l’eau, et à
+profiter de ses dépoüilles». Pardonnez-moi de rire, Messieurs,--mais le
+fait est que je ris chaque fois que je pense à ce cas: deux choses me
+paraissent si drôles. L’une est l’horrible panique ou «_funk_» (comme
+disent les gens d’Eton) où M. Descartes a dû se trouver en entendant
+esquisser le drame réglé de sa propre mort, de ses funérailles, de sa
+succession et de l’administration de ses biens. Mais une autre chose qui
+me paraît encore bien plus bouffonne dans cette affaire, c’est que, si
+ces chiens de Frise avaient été _courageux_, nous n’aurions pas de
+philosophie cartésienne: et comment aurions-nous pu faire sans elle, si
+l’on considère le monde de livres qu’elle a produit, je laisse le soin
+de le supputer à tout honorable fabricant de coffres.
+
+Mais poursuivons. En dépit de son énorme _funk_, Descartes fit mine de
+combattre, et par ce moyen terrifia ces misérables anti-cartésiens: «M.
+Descartes, dit M. Baillet, voyant que c’étoit tout de bon, se leva tout
+d’un coup, changea de contenance, tira l’épée d’une fierté imprévuë,
+leur parla en leur langue d’un ton qui les saisit, et les menaça de les
+percer sur l’heure, s’ils osoient luy faire insulte.»
+
+Certes, Messieurs, c’eût été un honneur bien au-dessus des mérites de si
+chétifs coquins d’être embrochés comme des alouettes par une épée
+cartésienne; et c’est pourquoi je suis heureux que M. Descartes n’ait
+pas privé le gibet en mettant à exécution sa menace, d’autant qu’il
+n’aurait pu sans doute mener son vaisseau à bon port s’il en avait tué
+l’équipage, de sorte qu’il aurait croisé à jamais dans le Zuyderzée, où
+les marins l’auraient pris pour le _Hollandais volant_ retournant vers
+son pays. La hardiesse... dit son biographe, «qu’il fit paroître pour
+lors eut un effet merveilleux sur l’esprit de ces misérables.
+L’épouvante qu’ils en eurent fut suivie d’un étourdissement qui les
+empêcha de considérer leur avantage, et ils le conduisirent aussi
+paisiblement qu’il pût souhaiter.»
+
+Peut-être, Messieurs, vous imaginez-vous que, sur le modèle du discours
+de César à son pauvre passeur: _Cæsarem vehis et fortunas ejus_,--M.
+Descartes n’avait eu besoin que de dire: «Chiens, vous ne pouvez pas me
+couper la gorge, car vous portez Descartes et sa philosophie», et qu’il
+ait pu, en toute sécurité, les défier de faire ce qu’ils voulaient.
+
+Un empereur allemand avait eu cette même idée, lorsque averti de se
+garer de la ligne d’une canonnade, il répondit: «Bah! l’homme, as-tu
+jamais entendu parler d’un boulet de canon qui ait tué un empereur?[22]»
+
+Pour un empereur, je ne saurais dire, mais une moindre chose a suffi à
+déconfire un philosophe, et le grand philosophe européen suivant sans
+aucun doute a été assassiné. C’est Spinoza.
+
+Je sais très bien que l’opinion commune veut qu’il soit mort dans son
+lit. Peut-être est-ce vrai, mais il fut assassiné en dépit de tout; et
+je vais le prouver à l’aide d’un livre publié à Bruxelles en 1731,
+intitulé «La Vie de Spinoza, par M. Jean Colerus», avec nombre
+d’additions d’après une vie manuscrite par l’un de ses amis[23]. Spinoza
+est mort le 21 février 1677, il avait à peine plus de quarante-quatre
+ans. Cela déjà par soi-même paraît suspect; et M. Jean admet qu’une
+certaine expression dans la vie manuscrite autoriserait la conclusion
+«que sa mort n’a pas été tout à fait naturelle». Comme il a vécu dans un
+pays humide, dans un pays maritime, la Hollande, on pourrait croire
+qu’il s’adonna beaucoup au grog, ou plus spécialement au punch[24] qu’on
+venait d’inventer. Sans doute il aurait pu, mais le fait est qu’il n’en
+est rien. M. Jean l’appelle «extrêmement sobre en son boire et en son
+manger». Et, bien que quelques histoires singulières circulassent sur
+son habitude du jus de la mandragore (p. 140) et de l’opium (p. 144),
+pourtant aucun de ces articles ne se trouve dans le mémoire de son
+droguiste. Vivant donc avec une telle sobriété, comment est-il possible
+qu’il soit mort de mort naturelle à quarante-quatre ans?
+
+Écoutez le récit de son biographe: «Le dimanche au matin [21 février],
+avant qu’il fût temps d’aller à l’Église, il descendit encore de sa
+chambre et parla avec l’Hôte et sa Femme». A ce moment donc, peut-être à
+dix heures du matin le dimanche, vous voyez que Spinoza était vivant et
+se portait bien. Mais, il avait fait venir d’Amsterdam un certain
+médecin que, dit le biographe, «je ne puis désigner autrement que par
+ces deux lettres, L. M.»--Cet L. M. avait chargé les gens de la maison
+d’acheter «un vieux coq» et de le faire bouillir, afin que Spinoza pût
+prendre du bouillon vers midi. Il fit ainsi, en effet, et mangea un peu
+du vieux coq de bon appétit, après que l’hôte et sa femme furent rentrés
+de l’église. «L’après-midi, le Médecin L. M. resta seul auprès de
+_Spinosa_: ceux du logis étant retournés ensemble à leurs dévotions.
+Mais au sortir du sermon, ils apprirent avec surprise que sur les trois
+heures, _Spinosa_ étoit expiré en la présence de ce Médecin qui, le soir
+même, s’en retourna à Amsterdam par le bateau de nuit, sans prendre le
+moindre soin du défunt», et probablement sans prendre beaucoup plus de
+soin du paiement de sa propre petite note. «Il se dispensa de ce devoir
+d’autant plus tôt qu’après la mort de _Spinosa_, il s’étoit saisi d’un
+ducaton et de quelque peu d’argent que le défunt avoit laissé sur sa
+table, aussi bien que d’un couteau à manche d’argent, et s’étoit retiré
+avec ce qu’il avoit butiné.» Ici, vous le voyez, Messieurs, l’assassinat
+est évident, ainsi que sa nature. C’est L. M. qui a tué Spinoza pour son
+argent. Le pauvre Spinoza était invalide, maigre et faible. On ne
+remarqua pas de sang, L. M. sans doute l’a renversé et étouffé sous des
+coussins--le pauvre homme était déjà à moitié suffoqué par son infernal
+dîner. Après avoir mâché ce «vieux coq», ce qui veut dire, je pense, un
+coq du siècle précédent, en quel état pouvait se trouver le pauvre
+invalide pour lutter debout contre L. M.?--Mais qui est cet L. M.? Ce ne
+peut être à coup sûr Lindley Murray, car je l’ai vu à York en 1825, et,
+de plus, je ne pense pas qu’il aurait fait une telle chose--même contre
+un confrère en grammaire: car vous savez, Messieurs, que Spinoza a écrit
+une grammaire hébraïque très honorable.
+
+Hobbes--pour quelle raison, en vertu de quel principe, je n’ai jamais pu
+le comprendre--n’a pas été assassiné. C’est là une inadvertance capitale
+des professionnels du dix-septième siècle, puisque à tout point de vue
+il était un beau sujet d’assassinat, sauf, en vérité, qu’il était chétif
+et décharné, mais je puis prouver qu’il avait de l’argent, et (ce qui
+est très amusant), il n’aurait pas eu le droit de faire la moindre
+résistance, puisque, d’après lui-même, un pouvoir auquel on ne peut
+résister, crée l’espèce la plus haute de droit, de sorte que c’est une
+rébellion de la couleur la plus noire de se refuser à être assassiné
+quand une force compétente paraît pour vous assassiner.
+
+Cependant, Messieurs, s’il ne fut pas assassiné, je suis heureux de vous
+assurer que, d’après son propre récit, il a été trois fois très près
+d’être assassiné--et c’est une consolation. La première fois, au
+printemps de 1640, il prétend avoir fait circuler un petit manuscrit au
+nom du roi contre le Parlement[25]. Il n’a jamais pu produire ce
+manuscrit, mais il dit que «si S. M. n’avait pas dissous le Parlement
+(en mai), cela eût mis en danger sa vie». La dissolution du Parlement,
+cependant, ne fut d’aucune utilité; car en novembre de la même année[26]
+s’assembla le Long Parlement, et Hobbes, redoutant une seconde fois
+d’être tué, s’enfuit en France.
+
+Ceci ressemble assez bien à la folie de John Dennis[27] qui crut que
+Louis XIV ne ferait jamais la paix avec la reine Anne à moins que lui,
+Dennis, ne fût livré à la vengeance des Français, et, sur-le-champ, il
+s’enfuit du bord de la mer, à cause de cette idée.
+
+En France, Hobbes s’arrangea de façon à prendre soin de sa gorge le
+mieux du monde durant dix ans; mais au bout de ce temps, en vue de faire
+sa cour à Cromwell, il publia son _Léviathan_. Le vieux poltron alors se
+mit à _trembler_ horriblement pour la troisième fois: il s’imaginait
+constamment que les épées des Cavaliers étaient sur sa gorge, en se
+souvenant de quelle manière ils avaient servi les ambassadeurs du
+Parlement à la Haye et à Madrid: _Tum_, dit-il dans sa propre vie en un
+latin de chien[28],
+
+    _Tum venit in mentem mihi Dorislaus et Ascham;
+      Tanquam proscripto terror ubique aderat._
+
+Et, en conséquence, il s’empressa de rentrer en Angleterre. Certes, il
+est vrai qu’un homme a mérité la bastonnade pour avoir écrit le
+_Léviathan_, et deux ou trois bastonnades pour avoir écrit un pentamètre
+qui finisse aussi vilainement que _terror ubique aderat_, mais jamais
+personne ne l’a estimé digne de rien de plus grave que la bastonnade.
+Et, de fait, toute l’histoire est une hâblerie de sa part. Car, dans une
+lettre très grossière qu’il écrivit à «une personne savante» (ce qui
+veut dire le mathématicien Wallis) il donne une toute autre version de
+la chose, et dit (p. 8) qu’il revint «parce qu’il ne voulait pas confier
+sa sauvegarde au clergé français» insinuant qu’il y aurait apparence
+qu’il fût tué pour sa religion; ce qui eût été une haute plaisanterie,
+en effet: Tom jeté au bûcher pour sa religion!
+
+Hâblerie ou non, il est pourtant certain que Hobbes, à la fin de sa vie,
+craignait qu’on le tuât. Cela est démontré par une histoire que je vais
+vous raconter: elle n’est pas dans un manuscrit, mais (comme dit M.
+Coleridge), elle est aussi bonne qu’un manuscrit, car elle provient d’un
+livre maintenant oublié tout à fait, à savoir: _La Foi de M. Hobbes
+examinée dans une conversation entre lui et un étudiant en théologie_
+(publié environ dix ans avant la mort de Hobbes).
+
+Le livre est anonyme; mais il est écrit par Tenison--le même qui,
+environ trente ans plus tard, succéda à Tillotson comme archevêque de
+Canterbury[29].
+
+Une anecdote sert d’introduction: «Un certain théologien (sans doute
+Tenison lui-même) faisait une excursion annuelle d’un mois dans les
+différentes parties de l’île. Dans l’une de ces excursions (1670), il
+visitait le Pic dans le Derbyshire, en partie à cause de la description
+qu’en a faite Hobbes[30]. Étant dans ces parages, il ne pouvait pas
+manquer de visiter Buxton, où dès le moment de son arrivée, il eut la
+bonne fortune de tomber sur une Société de gentlemen qui descendaient de
+cheval à la porte de l’auberge; parmi eux était un personnage long et
+maigre, lequel se trouvait être M. Hobbes, arrivant sans doute de
+Chatsworth[31].
+
+En rencontrant un si grand lion, un touriste à la recherche du
+pittoresque ne pouvait faire moins que de se présenter comme un
+cauchemar.
+
+Fort heureusement pour la réussite de ce plan, les deux compagnons de M.
+Hobbes furent tout aussitôt rappelés par un exprès; de sorte que,
+pendant le reste de son séjour à Buxton, il posséda Léviathan
+entièrement tout seul, et eut l’honneur de pinter avec lui le soir.
+
+Hobbes, semble-t-il, tout d’abord fit montre de beaucoup de raideur, car
+il était soupçonneux avec les théologiens. Mais cela disparut, il se fit
+très sociable et facétieux, et ils convinrent d’aller ensemble se
+baigner.
+
+Comment Tenison a pu s’aventurer à s’ébattre dans la même eau que
+Léviathan, je ne peux l’expliquer; mais il en fut ainsi. Ils folâtrèrent
+comme deux dauphins, bien que Hobbes dût être aussi vieux que les monts;
+et dans les intervalles où ils s’abstenaient de nager et de plonger, ils
+discouraient de maintes choses relatives aux bains des Anciens et à
+l’origine des sources.
+
+Quand ils eurent de la sorte passé une heure, ils sortirent du bain; et,
+séchés et habillés, ils s’assirent en attendant le souper que le lieu
+fournirait; ils concevaient le dessein de se restaurer comme les
+_Deïpnosophistes_ et de raisonner plutôt que de boire, profondément.
+Mais, dans cette intention innocente, ils furent interrompus par le
+tumulte qu’éleva une petite querelle où une partie des gens plus
+grossiers de la maison se trouvaient depuis un moment engagés. M. Hobbes
+en parut très inquiet, bien qu’il fût à bonne distance de ces
+personnes». Et pourquoi était-il inquiet, Messieurs? Sans doute,
+pensez-vous, par un bénin amour de la paix, désintéressé, digne d’un
+vieillard et d’un philosophe. Écoutez donc: «Pendant un moment il ne se
+remit pas, mais il raconta une ou deux fois, comme à lui-même, d’une
+voix basse et prudente, c’est-à-dire anxieuse, comment Sextus Roscius
+fut assassiné, après souper, près des Balneæ Palatinæ. Si loin peut, en
+général, s’étendre cette remarque de Cicéron relativement à Épicure
+l’athée: il observe que de tous les hommes celui-là redoutait le plus
+les deux choses qu’il méprisait: la Mort et les Dieux».--Simplement
+parce que l’heure du souper était passée et qu’il était dans le
+voisinage de bains, Monsieur Hobbes devait avoir le destin de Sextus
+Roscius! Il devait être assassiné, parce que Sextus Roscius avait été
+assassiné! Quelle logique y avait-il à cela, sinon pour un homme qui
+toujours rêvait d’assassinat? Voilà donc Léviathan, non plus effrayé des
+poignards des Cavaliers où du Clergé français, mais «épouvanté au delà
+des convenances» par un vacarme de cabaret entre quelques honnêtes
+rustres du Derbyshire, tandis que lui-même, épouvantail humain décharné,
+appartenant tout à fait à un autre siècle, les eût pu faire mourir de
+peur.
+
+Malebranche, vous l’apprendrez avec plaisir, a été assassiné. L’homme
+qui l’assassina est bien connu: c’est l’évêque Berkeley. L’histoire est
+notoire, bien que jusqu’ici on ne l’ait pas mise en pleine lumière.
+Berkeley, jeune homme, alla à Paris et visita le Père Malebranche[32].
+Il le trouva dans sa cellule, qui faisait la cuisine[33]. Les cuisiniers
+ont toujours été un _genus irritabile_, les auteurs plus encore;
+Malebranche était l’un et l’autre. Une discussion s’éleva. Le vieux
+père, déjà chaud, devint plus chaud; l’irritation culinaire et
+l’irritation métaphysique s’unirent à lui déranger le foie. Il se mit au
+lit, et mourut. Telle est la version ordinaire de l’histoire, «ainsi le
+Danemark entier est abusé». Le fait est que la chose fut atténuée par
+considération pour Berkeley, qui (Pope l’observe justement) avait
+«toutes les vertus sous le ciel». Mais on n’ignorait pas que Berkeley,
+piqué par l’irritabilité du vieux Français, s’était mesuré avec lui; une
+culbute en était résultée; Malebranche toucha le parquet au premier
+tour. Toute conception lui fut entièrement enlevée, et il allait
+peut-être se rendre; mais le sang de Berkeley était désormais excité, et
+il insista pour que le vieux Français rétractât sa doctrine des Causes
+Occasionnelles. Mais la vanité de l’homme était trop grande; et il tomba
+en holocauste à l’impétuosité de la jeunesse irlandaise, combinée avec
+sa propre obstination absurde.
+
+Leibnitz étant de toute façon supérieur à Malebranche, on pourrait, _a
+fortiori_, compter qu’il a été assassiné; mais, à la vérité, il n’en est
+rien. Je crois qu’il a été très aigri de cette négligence, et qu’il se
+sentit outragé par la sécurité dans laquelle il a passé ses jours. Je ne
+saurais expliquer autrement sa conduite vers la fin de sa vie, alors
+qu’il se mit à devenir très avare, et à entasser de grandes sommes d’or
+qu’il gardait dans sa maison. C’était à Vienne, où il est mort. Et des
+lettres existent encore qui décrivent l’incommensurable inquiétude de sa
+gorge où il vivait. Ainsi son ambition d’être l’objet d’un attentat
+n’était point, du moins, assez grande pour qu’il en oubliât le danger.
+Un défunt pédagogue, de la manufacture de Birmingham, le docteur Parr,
+suivait une marche plus égoïste dans les mêmes circonstances. Il avait
+amassé une quantité considérable de vaisselle d’or et d’argent, qu’il
+déposa quelque temps dans la chambre à coucher de son presbytère, à
+Hatton. Mais de jour en jour plus effrayé d’être tué, ce qu’il savait
+qu’il ne pourrait supporter (et jamais d’ailleurs, il n’y eut la moindre
+prétention), il transféra le tout chez le forgeron de Hatton; supposant,
+sans doute, que l’assassinat d’un forgeron serait plus léger au _salus
+reipublicae_ que celui d’un pédagogue. Pourtant j’ai entendu mettre cela
+fortement en doute, et l’on convient en général, maintenant, qu’un bon
+fer à cheval vaut environ deux _sermons de l’Hôpital_ et un quart[34].
+
+Si de Leibnitz, bien que non assassiné, on peut dire qu’il est mort en
+partie de sa peur d’être assassiné, et en partie de la contrariété de ne
+l’avoir pas été, Kant, de son côté, qui n’a manifesté aucune ambition de
+ce genre, échappa à un meurtrier de plus près que tout autre homme dont
+nous ayons lu la vie, Descartes excepté. Tant la fortune répand
+absurdement ses faveurs!
+
+La chose est racontée, je crois, dans une vie anonyme de ce très grand
+homme. Par raison de santé, Kant s’imposait, à une certaine époque, une
+promenade de six milles le long d’une grande route. Ce fait était connu
+d’un homme qui avait ses raisons particulières pour commettre un
+assassinat; à trois bornes de Königsberg, il guetta son «prétendu» qui
+arrivait juste à l’heure aussi exactement qu’une malle-poste. Sans un
+accident, Kant était un homme mort. Cet accident, ce fut la scrupuleuse,
+ou, comme l’eût appelée Mrs Quickly, la _sotte_ moralité de l’assassin.
+Un vieux professeur, s’imaginait-il, pouvait être chargé de péchés, et
+non un jeune enfant. Sur cette considération, il se détourna de Kant au
+moment critique, et tout aussitôt il assassina un enfant de cinq ans.
+Telle est la version allemande de l’incident, mais mon opinion est que
+le meurtrier était un amateur, et qu’il sentit combien peu serait
+profitable à la cause du bon goût le meurtre d’un vieux, aride et
+consumé métaphysicien: il n’y avait là nul motif de se montrer, car
+l’homme n’aurait pu paraître plus semblable à une momie, une fois mort,
+qu’il ne l’était, vivant.
+
+Ainsi, Messieurs, j’ai retracé les rapports de la philosophie et de
+notre art, si bien que je me trouve parvenu à notre siècle. Je ne
+prendrai pas la peine de le caractériser autrement que celui qui l’a
+précédé, car ils n’ont, en fait, aucun caractère distinctif. Le
+dix-septième et le dix-huitième siècles, joints à tout ce que nous avons
+vu du dix-neuvième, forment ensemble l’âge d’Auguste du meurtre.
+
+Le plus bel ouvrage du dix-septième siècle est sans conteste
+l’assassinat de Sir Edmundbury Godfrey[35]--lequel a toute mon
+approbation. Au point de vue important du _mystère_ qui doit, d’une
+manière ou d’une autre, colorer toute tentative d’assassinat judicieuse,
+il est excellent, le mystère n’en est pas encore dissipé.
+
+On a essayé de mettre ce meurtre sur le dos des papistes, mais ce serait
+lui faire tort, de même qu’à des Corrège bien connus ont fait tort les
+nettoyeurs professionnels de tableaux; ce serait même le perdre en la
+classe apocryphe des simples meurtres politiques ou de partisans,
+auxquels manque tout à fait l’_animus_ meurtrier, et je supplie la
+société de réprouver cette manière de voir. En fait, cette idée est tout
+à fait sans fondement, et n’a surgi que du plus pur fanatisme
+protestant.
+
+Sir Edmundbury ne s’était pas distingué parmi les magistrats de Londres
+par sa sévérité à l’égard des papistes, ni en favorisant les tentatives
+des fanatiques, dans le but de renforcer les lois pénales contre les
+individus. Il n’avait pas armé contre lui l’animosité d’une secte
+religieuse quelle qu’elle fût. Et, pour ce qui est des coulures de
+bougie sur les vêtements du cadavre lorsqu’on vint à le découvrir dans
+un fossé (d’où l’on inféra, dans ce temps-là, que les prêtres attachés à
+la papiste chapelle de la Reine étaient intéressés dans le meurtre),
+c’est simplement un artifice frauduleux imaginé par ceux qui
+souhaitaient de fixer les soupçons sur les papistes, ou même toute cette
+allégation--les coulures de la cire avec le motif suggéré de ces
+coulures--peut bien n’être qu’une bourde ou un conte de l’évêque Burnet.
+Celui-ci, comme le disait couramment la duchesse de Portsmouth, est le
+seul grand maître du dix-septième siècle en l’art de faire des contes et
+des romans.
+
+Cependant on peut observer que le nombre des assassinats n’était pas
+grand au siècle de Sir Emundbury, du moins chez nos artistes, et il faut
+peut-être l’attribuer au manque de patronage éclairé. _Sint Mæcenates,
+non deerunt, Flacce, Marones._ Si l’on consulte les _Observations sur
+les Tables de Mortalité_, de Grant (4e édition, Oxford 1665) on trouve
+que sur 229.250 personnes mortes à Londres dans une période de 20 années
+du dix-septième siècle, il n’y en pas eu plus de quatre-vingt-dix
+assassinées, c’est-à-dire par an, environ quatre et trois dixièmes.
+
+Bien petit chiffre, Messieurs, pour fonder dessus une académie, et,
+certes, où la quantité est si mesquine, avons-nous le droit de nous
+attendre à une qualité de premier ordre.
+
+Peut-être en fut-il ainsi, mais pourtant je suis d’avis que le meilleur
+artiste de ce siècle-là ne fut pas l’égal du meilleur artiste du siècle
+suivant.
+
+Par exemple, quelque louable que puisse être le cas de Sir Edmundbury
+Godfrey (et personne ne peut plus que moi être sensible à ses mérites),
+je ne puis pourtant consentir à le placer sur le même niveau que celui
+de Mrs Ruscombe, de Bristol, tant pour l’originalité du dessein que pour
+l’audace et la hauteur du style. Le meurtre de cette bonne dame eut lieu
+au commencement du règne de George III, règne qui notoirement a été
+favorable aux arts en général. Elle vivait à College Green avec une
+seule jeune servante, sans que ni l’une ni l’autre eût la moindre
+prétention à l’attention de l’Histoire, qu’elles ne doivent qu’au grand
+artiste dont je rappelle le travail. Un beau matin, tandis que tout
+Bristol était vivant et animé, un soupçon s’étant élevé, des voisins
+forcèrent l’entrée de la maison et trouvèrent Mrs Ruscombe assassinée
+dans sa chambre à coucher, et la servante assassinée dans l’escalier.
+C’était en plein jour, et moins de deux heures avant, toutes deux, la
+maîtresse et la servante, avaient été vues vivantes. Autant que je puis
+me rappeler, ce fut en 1764; plus de soixante années se sont donc
+écoulées, et l’artiste n’est pas encore découvert.
+
+Les soupçons de la postérité se sont portés sur deux prétendants: un
+boulanger et un ramoneur de cheminées. Mais la postérité se trompe;
+aucun artiste inexpérimenté n’aurait pu concevoir l’idée si audacieuse
+d’un assassinat en plein jour au cœur d’une grande ville. Ce n’est pas
+un obscur boulanger, Messieurs, ni un ramoneur anonyme, soyez-en bien
+sûrs, qui a exécuté ce travail. Je sais qui c’est.
+
+_(Ici, il se fit un bourdonnement unanime, qui éclata finalement en de
+grands applaudissements. La-dessus, le conférencier rougit, et
+poursuivit avec beaucoup de vivacité):_
+
+Pour l’amour de Dieu, Messieurs, ne vous méprenez pas; ce n’est pas moi
+qui l’ai fait. Je n’ai pas la vanité de me croire à la hauteur d’une
+telle œuvre; soyez sûrs que vous vous exagérez beaucoup mes pauvres
+talents; l’assassinat de Mrs Ruscombe est bien au-dessus de mes faibles
+moyens. Seulement j’ai pu savoir qui était le meurtrier, grâce à un
+célèbre chirurgien qui a assisté à sa dissection. Ce gentleman avait un
+musée particulier dans l’intérêt de sa profession; tout un coin en était
+occupé par le moulage d’un homme de proportions remarquablement belles.
+
+«C’est, disait le chirurgien, le moulage du célèbre voleur de grand
+chemin du Lancashire qui sut cacher sa profession pendant longtemps à
+ses voisins en couvrant de bas de laine les jambes de son cheval: de la
+sorte il assourdissait le bruit qu’il eût fait autrement en traversant
+une allée dallée qui conduisait à son écurie. A l’époque de son
+exécution pour vol de grand chemin, j’étudiais sous Cruickshank; la
+figure de l’homme était si extraordinairement belle qu’on n’épargna ni
+argent ni effort pour prendre possession de son corps le plus tôt
+possible. Avec la connivence du sous-sheriff, on le dépendit avant le
+temps légal, et on le plaça tout aussitôt dans une chaise de poste, si
+bien que lorsqu’il arriva chez Cruickshank, il n’était pas positivement
+mort. Mr ***, jeune étudiant alors, eut l’honneur de lui donner le coup
+de grâce, et de mettre fin à la sentence de la loi.»
+
+Cette anecdote remarquable, qui semble impliquer que tous les gentlemen
+de la chambre de dissection étaient des amateurs de notre genre, me
+frappa énormément. Je la répétai un jour à une dame du Lancashire qui
+tout de suite me raconta qu’elle aussi avait vécu dans le voisinage de
+ce voleur de grand chemin et qu’elle se souvenait fort bien de deux
+circonstances qui se combinaient, dans l’opinion de tous les voisins,
+pour fixer sur lui le crédit de l’affaire de Mrs Ruscombe. L’une était
+le fait de son absence pendant quinze jours pleins à l’époque de cet
+assassinat; l’autre, que fort peu de temps après, le voisinage de ce
+voleur de grand chemin se trouva inondé de dollars; or, Mrs Ruscombe, on
+le savait, avait amassé environ deux milliers de ces espèces. Mais en
+tout cas, quel que soit l’artiste, l’affaire demeure un monument durable
+de son génie; tels furent en effet l’impression d’effroi et le sentiment
+de puissance issus de la force de conception manifestée dans ce meurtre
+que pas un locataire (m’a-t-on dit en 1810) n’a pu se rencontrer depuis
+ce temps pour la maison de Mrs Ruscombe.
+
+Mais, parce que je loue ainsi le cas Ruscombien, n’allez pas supposer
+que je ferme les yeux à maint autre spécimen d’un mérite extraordinaire
+répandu sur la face de ce siècle. Des cas, cependant, tels que ceux de
+Miss Bland, ou du capitaine Donnellan et de Sir Théophilus Boughton[36],
+n’obtiendront jamais ma faveur. Fi de ces marchands de poison, dis-je;
+ne pouvaient-ils s’en tenir au vieux procédé honnête de couper les
+gorges, sans introduire de ces innovations abominables d’Italie? Je
+considère tous ces cas d’empoisonnement, comparés au style légitime,
+comme les analogues de ce que sont les figures de cire par rapport à la
+sculpture, ou une estampe lithographique par rapport à un beau Volpato.
+
+Mais laissons cela; il nous reste plus d’une excellente œuvre d’art d’un
+style pur, dont personne n’aurait à rougir, tout connaisseur sincère en
+conviendra. Sincère, ai-je dit, remarquez-le bien, car de grandes
+concessions doivent être accordées à de tels cas; aucun artiste ne peut
+jamais être sûr d’aboutir selon sa propre et belle inspiration. Des
+dérangements malencontreux surgissent: on ne se soumet pas à avoir la
+gorge coupée, tranquillement; on court, on se débat, on mord; et au lieu
+que le peintre de portraits a souvent à se plaindre de la torpeur de son
+sujet, l’artiste en notre partie est généralement embarrassé par un
+excès de mouvement.
+
+De plus, bien que désagréable à l’artiste, cette tendance du meurtre à
+exciter et à irriter le sujet est certainement un de ses attraits pour
+le monde en général, et il nous faut y attacher nos regards, parce qu’il
+favorise le développement du talent latent. Jeremy Taylor remarque avec
+admiration les sauts extraordinaires que l’on peut faire sous
+l’influence de la peur. Il y a eu de ceci un exemple frappant dans le
+cas récent des Mac-Kean[37]. L’enfant sauta d’une hauteur telle qu’il
+n’en sautera pas une pareille jusqu’au jour de sa mort. Les talents
+aussi de l’espèce la plus brillante dans la lutte à mains plates, et en
+vérité, dans tout exercice gymnastique, ont été souvent développés par
+la frayeur qui fait cortège à nos artistes--des talents qui eussent sans
+cela été ensevelis et cachés sous le boisseau, aussi bien à qui les
+possède qu’à ses amis.
+
+Je me rappelle un exemple intéressant de ce fait dans une affaire qu’on
+m’a apprise en Allemagne.
+
+Je chevauchais un jour dans le voisinage de Munich, où je rencontrai un
+distingué amateur de notre société dont, pour des raisons très claires,
+je cacherai le nom. Ce gentleman m’informa que se trouvant las des
+plaisirs si froids, (tels les estimait-il) du simple état d’amateur, il
+avait quitté l’Angleterre pour le continent--c’est-à-dire pour pratiquer
+un peu, professionnellement. Dans ce dessein il s’était rendu en
+Allemagne, s’imaginant que la police dans cette partie de l’Europe était
+la plus lourde et la plus nonchalante. Son début, comme pratiquant, eut
+lieu à Mannheim, et comme il me savait un confrère amateur, il me
+communiqua librement toute entière sa première aventure. «Vis-à-vis de
+mon logement, me dit-il, vivait un boulanger. Il était passablement
+avare, et vivait seul. Fut-ce à cause de sa large face épanouie et
+crayeuse, ou pour toute autre cause, je ne sais, mais le fait est que je
+pensai à lui, et que je résolus de commencer à travailler par sa gorge;
+il la portait, d’ailleurs, toujours nue--mode bien faite pour irriter
+mes désirs.
+
+J’observai qu’à huit heures du soir précises, il fermait régulièrement
+ses volets. Une nuit, je le guettai dans cette occupation; je m’élançai
+derrière lui, je fermai la porte et m’adressant à lui avec une grande
+douceur, je le mis au courant de la nature de ma mission, et je
+l’engageai en même temps à ne pas faire de résistance, ce qui nous
+serait désagréable à tous les deux. En parlant ainsi, je tirais mes
+outils, et je m’apprêtais à opérer. Mais à cette vue, le boulanger, qui
+avait paru frappé de catalepsie à mon premier avis, se réveilla dans une
+agitation terrible. «Je ne veux pas être assassiné, s’écriait-il, et
+pourquoi irais-je perdre (il voulait dire: vais-je perdre) ma précieuse
+gorge?»--«Pourquoi? dis-je; à défaut d’autre raison, parce que vous
+mettez de l’alun dans votre pain. Mais n’importe; alun ou non, (car
+j’étais résolu à prévenir toute discussion sur ce point), sachez que je
+suis un virtuose dans l’art de l’assassinat, que je suis désireux de m’y
+perfectionner en détail, que je suis épris de la vaste surface de votre
+gorge, et que je suis déterminé à m’en faire le client».--«Vraiment?
+dit-il,--eh bien je vais vous trouver une autre sorte de client»; et,
+tout en parlant, il se précipita dans une attitude de boxeur.
+
+Cette idée de boxer me parut amusante. C’est vrai, un boulanger de
+Londres s’est distingué dans l’arène et s’est fait connaître à la
+renommée sous le titre de Maître des Rôles. Mais il était jeune et pas
+abîmé; tandis que mon homme était, de sa personne, un matelas de plumes,
+âgé de cinquante ans, et tout à fait hors d’état.
+
+En dépit de tout pourtant, et luttant contre _moi_ qui suis un maître de
+l’art, il fit une défense si désespérée que plus d’une fois je craignis
+qu’il pût tourner les chances contre moi, et que moi, l’amateur, je
+pusse me voir tué par un coquin de boulanger. Quelle situation! Les
+esprits sensibles sympathiseront avec mon inquiétude. Comme il m’est dur
+de devoir vous apprendre que dans les treize premiers _rounds_ le
+boulanger eut positivement l’avantage. Au quatorzième, je reçus sur
+l’œil droit un coup qui le ferma; mais enfin, ce fut là, je crois, mon
+salut, car la colère qui s’éleva en moi fut si grande qu’à la reprise
+suivante, et à chacune des trois qui suivirent, je fis toucher le sol au
+boulanger.
+
+19me _round_. Le boulanger se releva tout languissant, et manifestement
+incapable de résister. Ses exploits géométriques des quatre dernières
+reprises ne lui avaient fait aucun bien. Pourtant il déploya une
+certaine adresse à arrêter un message que j’adressais à sa boule
+cadavérique; en le lançant, mon pied glissa, et je tombai.
+
+20me _round_. En contemplant le boulanger, je me sentis honteux d’avoir
+été si tarabusté par une masse informe de pâte, et je me levai
+violemment pour lui administrer un châtiment sévère. Un corps à corps
+eut lieu; tous deux nous tombâmes, le boulanger par-dessous--dix contre
+trois pour l’amateur!
+
+21me _round_. Le boulanger sauta sur ses jambes avec une agilité
+surprenante; certes il conduisait parfaitement ses pointes, et il
+luttait admirablement, si l’on considère qu’il était trempé de sueur;
+mais son éclat lui était désormais ravi, son jeu était le pur effet de
+la terreur. Il était sûr à présent qu’il ne pourrait plus résister
+longtemps. Au cours de cette reprise, nous essayâmes du système de
+l’enlacement, j’y eus de beaucoup l’avantage, et je le frappais de façon
+réitérée sur le crâne... En effet son crâne était couvert d’anthrax, et
+je pensais que je le tourmenterais en prenant de telles libertés avec
+son crâne; et c’est bien ce qui se produisit.
+
+Aux trois _rounds_ suivants, le maître des Rôles vacillait, comme une
+vache sur la glace. Voyant où en étaient les choses, au 24me _round_, je
+lui murmurai à l’oreille une chose qui l’envoya à terre, telle une
+balle. Ce n’était rien moins que mon opinion sur la valeur de sa gorge
+pour un office d’annuités. Ce petit murmure confidentiel l’affecta
+grandement; même la sueur se glaça sur son visage, et, pendant les deux
+_rounds_ suivants, j’en fis ce que je voulus. Lorsque j’appelai: «en
+place pour le 27me _round_», il gisait comme une bûche sur le parquet.»
+
+Alors, je dis à l’amateur: «Il est à présumer que vous avez achevé votre
+dessein.»--«Vous avez raison, dit-il avec douceur, j’achevai, et ce fut,
+savez-vous, une grande satisfaction pour mon esprit, d’avoir par ce
+moyen tué d’une pierre deux oiseaux.» Il voulait dire qu’il avait à la
+fois tombé et tué le boulanger. Or, par ma vie, je ne vois pas comme
+lui, au contraire, il me semble qu’il a bien pris deux pierres pour ne
+tuer qu’un oiseau, ayant été obligé de lui ravir l’esprit d’abord avec
+son poing, ensuite avec ses outils.
+
+Mais qu’importe cette logique? La moralité de l’histoire n’en est pas
+moins satisfaisante, elle montre l’extraordinaire stimulant du talent
+caché apporté par toute perspective raisonnable de se voir assassiné. Un
+boulanger de Mannheim, poussif, pesant, à moitié cataleptique, avait
+lutté positivement pendant 27 reprises avec un boxeur anglais
+expérimenté sur cette seule inspiration; tant son génie naturel se
+trouva exalté et transporté par la géniale présence de son assassin!
+
+Vraiment, Messieurs, lorsqu’on entend raconter des choses comme
+celles-là, ce devient un devoir, d’adoucir un peu l’extrême sévérité
+avec laquelle la plupart des hommes parlent de l’assassinat. A entendre
+parler, on s’imaginerait que tous les désavantages et les inconvénients
+consistent à être assassiné et qu’il n’y en a pas à ne pas être
+assassiné. Les hommes réfléchis pensent autrement: «Certes, dit Jeremy
+Taylor, c’est un moindre mal temporel de tomber par la force d’un sabre
+que par la violence d’une fièvre, et la hache (à quoi il aurait pu
+ajouter le maillet du charpentier de navire et la pince monseigneur) est
+une bien moindre affliction qu’une strangurie.» Voilà qui est bien vrai;
+l’évêque parle en sage et en amateur; il l’était, j’en suis sûr; et un
+autre grand philosophe, Marc Aurèle, s’élève aussi au-dessus des
+préjugés vulgaires à ce sujet. Il déclare que c’est une «des plus nobles
+fonctions de la raison, de connaître s’il est temps ou non de sortir du
+monde» (livre III, traduction anglaise de Coller). Nulle sorte de
+connaissance n’étant plus rare que celle-là, à coup sûr, il faut que
+soit un personnage très philanthrope celui qui entreprend d’instruire
+les gens dans cette science, gratuitement et non sans péril pour
+lui-même. Néanmoins je n’aventure tout ceci qu’en tant que sujets de
+spéculations pour les moralistes futurs, et, je le déclare en même
+temps, c’est ma conviction personnelle et privée, bien peu de gens
+commettent un assassinat par des principes philanthropiques ou
+patriotiques, et je répète ce que j’ai dit une fois déjà, au moins: pour
+la majeure partie des assassins, ce sont des personnages tout à fait
+incorrects.
+
+Quant aux meurtres de Williams, les plus sublimes, les plus complets par
+leur excellence de tous ceux qui jamais aient été commis, je ne me
+permettrai pas de n’en parler qu’incidemment. Rien moins qu’une entière
+conférence, ou même toute une série de conférences ne suffirait à
+exposer leurs mérites[38]. Seulement un fait curieux se rattache à son
+cas, et je le mentionnerai, parce qu’il semble impliquer que l’éclat de
+son génie éblouissait jusqu’à l’œil même de la justice criminelle.
+
+Vous vous souvenez tous, je n’en doute pas, que les instruments avec
+lesquels il exécuta sa première grande œuvre (le meurtre des Marr)
+étaient un maillet de charpentier de navire et un couteau. Or, le
+maillet appartenait à un vieux Suédois, un certain John Peterson, de qui
+il portait les initiales. Cet instrument, Williams le laissa derrière
+lui dans la maison de Marr, où il tomba entre les mains des magistrats.
+Hé bien, Messieurs, c’est un fait que la publication de cette
+circonstance des initiales aurait conduit directement à l’arrestation de
+Williams, et que, faite plus tôt, elle aurait empêché sa seconde grande
+œuvre (le meurtre Williamson) qui eut lieu exactement douze jours plus
+tard. Cependant les magistrats cachèrent ce détail au public pendant ces
+douze jours entiers, jusqu’à ce que la seconde œuvre eût été achevée.
+Celle-là finie, ils la publièrent, sentant apparemment que Williams
+avait dès lors fait assez pour sa renommée et que sa gloire enfin était
+au-dessus de l’atteinte du hasard.
+
+Quant au cas de M. Thurtell[39], je ne sais trop qu’en dire.
+Naturellement, je suis tout disposé à estimer très haut mon prédécesseur
+à la présidence de cette société, et je reconnais que ses conférences
+étaient irréprochables. Mais, à parler ingénûment, en vérité, je trouve
+que son principal ouvrage a été bien surfait.
+
+J’avoue toutefois que moi aussi, d’abord, j’ai été emporté par
+l’enthousiasme général.
+
+Le matin où le meurtre fut annoncé à Londres, il y eut la plus nombreuse
+réunion d’amateurs que j’aie jamais vue depuis les jours de Williams.
+
+De vieux connaisseurs qui, de leurs lits, avaient pris la coutume
+chagrine de ricaner et de se plaindre «que rien ne se fît plus», se
+traînèrent cette fois jusqu’en la salle de notre club: rarement j’ai été
+témoin d’une si grande joie, d’une si douce expression de satisfaction
+générale. De tous côtés, on voyait des gens se serrer la main, se
+féliciter, s’inviter à dîner pour le soir. Et l’on n’entendait que ces
+triomphants défis: «Eh bien! _ceci_ compte-t-il?»--«Est-ce _ceci_, ce
+qu’il fallait?»--«Êtes-vous satisfait, enfin?»
+
+Mais au milieu du vacarme, je m’en souviens, nous devînmes tous
+silencieux, en entendant le vieil amateur cynique L. S., arriver en
+clopinant sur sa jambe de bois. Il entra dans la pièce, le sourcil
+froncé, comme de coutume; et en s’avançant, il continuait à grommeler et
+à bégayer tout le long du chemin: «Pur plagiat, vil plagiat d’idées que
+j’ai émises! Avec cela, il a le style aussi rude qu’Albert Durer, aussi
+grossier que Fuseli.»
+
+Plus d’un pensa que ce fut pure jalousie et universelle irritation;
+mais, je le confesse, quand le premier feu de l’enthousiasme fut tombé,
+j’ai rencontré de très judicieux critiques pour convenir qu’il y avait
+quelque chose de _fausset_ dans le style de Thurtell. Le fait est qu’il
+était membre de notre société, ce qui, naturellement, donnait une
+tendance amicale à nos jugements; que sa personne était universellement
+connue, «à la mode», ce qui lui valait auprès de tout le public de
+Londres, une popularité temporaire que ses prétentions n’eurent pas la
+force de supporter, _opinionum commenta delet dies, naturae judicia
+confirmat_.
+
+Il y a cependant de Thurtell un projet inachevé pour l’assassinat d’un
+homme au moyen d’une paire d’haltères, que j’admire fort. C’est une
+simple ébauche qu’il n’a jamais achevée; mais à mon esprit elle semble
+de tous points supérieure à son chef d’œuvre. Je me rappelle le grand
+regret exprimé par quelques amateurs que cette esquisse eût été laissée
+dans son état d’inachèvement; mais là je ne puis pas être d’accord avec
+eux, car les fragments et les premiers jets des artistes originaux ont
+souvent en eux un bonheur qui peut s’évanouir dans l’agencement des
+détails.
+
+J’estime le cas des Mac Kean bien supérieur à l’ouvrage si vanté de
+Thurtell, par-dessus toute louange, et je le situe, par rapport aux
+œuvres immortelles de Williams, comme l’Énéide par rapport à l’Iliade.
+
+Il serait temps à présent que je dise quelques mots des principes de
+l’assassinat en vue de diriger non votre pratique, mais votre jugement.
+Pour les vieilles femmes et la tourbe des lecteurs de journaux, ils se
+satisfont de n’importe quoi, pourvu que ce soit assez sanglant. Mais un
+esprit sensible exige quelque chose de plus. Premièrement, donc, parlons
+de l’espèce de personnes qui s’adaptent le mieux au dessein de
+l’assassin; deuxièmement, du lieu; troisièmement, du temps et de
+quelques autres menues circonstances.
+
+Quant à la personne, je tiens pour évident que ce doit être un homme de
+bien, parce que, si ce ne l’était pas, elle pourrait elle-même, n’est-ce
+pas? projeter un assassinat au même moment, et ces luttes «où le diamant
+taille le diamant», bien qu’assez satisfaisantes si rien de mieux
+n’émeut, ne sont pas en vérité ce qu’un critique peut se permettre
+d’appeler des assassinats. Je pourrais mentionner des gens (je ne cite
+aucun nom) qui ont été tués par d’autres gens, dans une allée obscure,
+et jusque-là tout paraîtrait assez correct; mais, à y regarder de plus
+près, le public s’est avisé que la partie tuée, au même moment, méditait
+de voler son assassin, tout au moins, et peut-être de le tuer si elle
+s’était trouvée assez forte. Toutes les fois que tel est le cas, ou que
+l’on peut penser que tel est le cas, adieu les effets originaux de
+l’art. Le but final de l’assassinat considéré comme un art, est en effet
+précisément le même que celui de la tragédie selon Aristote,
+c’est-à-dire «de purifier le cœur au moyen de la pitié ou de la
+terreur». Or, s’il peut y avoir terreur, comment pourrait-il y avoir
+aucune pitié devant un tigre détruit par un autre tigre?
+
+Il est évident, aussi, que la personne choisie ne doit pas être un
+personnage public. Par exemple, aucun artiste judicieux n’aurait tenté
+d’assassiner Abraham Newland[40]. Tout le monde a lu tant d’Abraham
+Newland et si peu de gens l’ont jamais vu, qu’à la croyance générale, il
+était une pure idée abstraite. Je me souviens qu’une fois je me risquai
+à dire que j’avais dîné dans un café avec Abraham Newland, tout le monde
+me regarda avec dédain, comme si j’eusse prétendu avoir joué au billard
+avec le Prêtre Jean, ou avoir eu une affaire d’honneur avec le Pape. Et,
+en passant, le Pape serait un personnage très impropre à tuer, car il a
+une telle ubiquité virtuelle en tant que père de la Chrétienté, et,
+pareil au coucou, il est si souvent entendu sans être jamais vu, que
+bien des gens, je le soupçonne, le regardent lui aussi comme une idée
+abstraite. Ce n’est que si un homme public a l’habitude de donner des
+dîners, avec toutes les délicatesses de la saison, que le cas est très
+différent: chacun se trouve fort satisfait que ce ne soit pas une idée
+abstraite; par conséquent, il n’y a plus aucune impropriété à le tuer,
+sauf que cet assassinat tombera dans la classe des assassinats
+politiques, dont je n’ai pas encore traité.
+
+Troisièmement, le sujet choisi doit être en bonne santé, il serait
+absolument barbare de tuer une personne malade, et généralement
+incapable de le supporter. Par ce principe, il ne faut pas qu’on
+choisisse un tailleur qui ait plus de vingt-cinq ans, car passé cet âge
+sûrement il doit être dyspeptique. Ou, du moins, si un homme veut
+chasser dans cette garenne, il pensera à coup sûr de son devoir, d’après
+une vieille équation établie, de tuer quelque multiple de 9--soit le 18,
+le 27 ou le 36. Ici, dans cette bienveillante sollicitude pour le
+confort des personnes malades, vous remarquerez l’effet ordinaire de
+l’art qui est d’adoucir et de raffiner les sentiments. Le monde en
+général, Messieurs, est très épris de sang; tout ce qu’il désire dans un
+meurtre c’est une effusion copieuse de sang; un étalage éclatant en cela
+lui suffit. Mais le connaisseur éclairé a le goût plus raffiné; de notre
+art, comme de tous les autres arts libéraux, quand on les possède à
+fond, le résultat est d’humaniser le cœur; tant il est vrai que
+
+    «_Ingenuas didicisse fideliter artes
+    Emollit mores, nec sinit esse feros._»
+
+Un ami, un philosophe, bien connu pour sa philanthropie et pour sa bonté
+générale, me suggère que le sujet choisi doit encore avoir une famille
+de jeunes enfants entièrement dans la dépendance de ses actions, en vue
+d’approfondir le pathétique. Sans nul doute, c’est là un judicieux avis.
+Pourtant je n’insisterai pas trop vivement sur cette condition. Un bon
+goût sévère sans conteste la suggère; mais néanmoins, si l’homme était
+d’autre part irréprochable au point de vue des mœurs et de la santé, je
+ne tiendrais pas avec une jalousie trop exacte à une restriction qui
+aurait pour effet de rétrécir la sphère de l’artiste.
+
+Voilà pour la personne. Quant au temps, au lieu, aux instruments,
+j’aurais à dire bien des choses, mais le temps me fait défaut. Le bon
+sens du praticien habituellement l’a porté vers la nuit et vers le
+secret. Pourtant il ne manque pas de cas où l’on se soit, avec un effet
+excellent, départi de cette règle. En ce qui concerne le temps, le cas
+de Mrs Ruscombe forme une exception superbe que j’ai déjà signalée; et
+en ce qui concerne à la fois le temps et le lieu, il se trouve une belle
+exception dans les annales d’Édimbourg (année 1805), qui est familière à
+tous les enfants d’Édimbourg, mais qui a été étonnamment frustrée de sa
+juste part de renommée auprès des amateurs anglais. Le cas auquel je
+fais allusion c’est celui d’un encaisseur à l’une des banques, qui fut
+tué, alors qu’il portait un sac de monnaie, en plein midi, à un tournant
+de High street, qui est une des rues les plus passantes de l’Europe; et
+l’assassin, à l’heure qu’il est, n’est pas encore découvert.
+
+    «_Sed fugit interea, fugit irreparabile tempus,
+    Singula dum capti circumvectamur amore._»
